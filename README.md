@@ -1,2 +1,1 @@
-# react-form-project
-react form project
+# japanese_project
